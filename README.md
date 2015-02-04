@@ -1,5 +1,4 @@
-# harbinger
-Harbinger Sensor Network Project
+# HARBINGER
 
 Harbinger Sensor Network Project
 
