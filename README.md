@@ -28,7 +28,22 @@ To see all located data type:
 ```
 # db.py -a 
 ```
-
+To see all captured probes:
+```
+# ./db.py -p
+```
+To see all clients captured:
+```
+# ./db.py -s
+```
+To see all bssids captured:
+```
+# ./db.py -b
+```
+To see all essid captured:
+```
+# ./db.py -e
+```
 Core Contributers
 =================
 
