@@ -10,7 +10,24 @@ Features:
 
 Getting started
 ===============
+```
+# git https://github.com/roobixx/harbinger.git
+# cd harbinger/
+# ./harbinger.sh
 
+OR
+
+# git https://github.com/roobixx/harbinger.git
+# cd harbinger/
+# airmon-ng start $wlan_interface
+# python sensor.py
+```
+Viewing Data
+============
+To see all located data type:
+```
+# db.py -a 
+```
 
 Core Contributers
 =================
