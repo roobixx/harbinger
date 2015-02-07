@@ -70,7 +70,7 @@ These are the projects that inspired this work. Check them out and support them 
 Licensing
 =========
 HSPN is licensed under the GNU Public License, Version 3.0. See
-[LICENSE](https://github.com/docker/docker/blob/master/LICENSE) for the full
+[LICENSE](https://github.com/roobixx/harbinger/blob/master/LICENSE) for the full
 license text.
 
 
