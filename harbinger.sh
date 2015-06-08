@@ -10,6 +10,11 @@ if ! PYTHON=`/bin/which python` ; then
         exit 1
 fi
 
+if ! SCAPY=/bin/which scapy ; then
+        echo "Harbinger requires 'scapy' which is not installed."
+        exit 1
+fi
+
 SUDO=''
 
 if test 'root' != `whoami` ; then
